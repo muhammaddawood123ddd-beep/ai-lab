@@ -16,6 +16,10 @@ __pycache__/
 .DS_Store
 Thumbs.db
 .vscode/
+.idea/
+
+# Archives
+*.zip
 
 # Environment and secrets
 .env
