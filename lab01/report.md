@@ -2,7 +2,7 @@
 
 **Student:** Muhammad Dawood  
 **Course:** Introduction to Artificial Intelligence  
-**Repository:** [https://github.com/muhammaddawood123/ai-lab-portfolio](https://github.com/muhammaddawood123/ai-lab-portfolio)
+**Repository:** [https://github.com/muhammaddawood123ddd-beep/ai-lab](https://github.com/muhammaddawood123ddd-beep/ai-lab)
 
 ---
 

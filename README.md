@@ -106,8 +106,8 @@ ai-lab-portfolio/
 
 Clone the repository and install the dependencies:
 ```bash
-git clone https://github.com/<your-username>/ai-lab-portfolio.git
-cd ai-lab-portfolio
+git clone https://github.com/muhammaddawood123ddd-beep/ai-lab.git
+cd ai-lab
 pip install -r requirements.txt
 python -m spacy download en_core_web_sm
 ```
